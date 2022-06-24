@@ -5,38 +5,10 @@ HEROKU LINK: https://se-clothing-store-project.herokuapp.com/
 
 
 
- 
-
-
-
-CEN 308 SOFTWARE ENGINEERING
-
-
-PROJECT DOCUMENTATION
-
-Aces – Clothing Store
-
-
-Prepared by:
-Anes Mehović
-
-
-Proposed to:
-Nermina Durmić, Assist. Prof. Dr.
-Aldin Kovačević, Teaching Assistant
 
 
 
 
-
-
-
-Date of submission
-
-24.06.2022
-TABLE OF CONTENTS
-
-Generate your table of contents here.
 1. Introduction
 1.1. About the Project
 	The project that was worked one was an online clothing store that provides multiple arrays of clothing options to its users, rather than providing only one clothing brand or clothing item type. This would help users in a way that it allows the user to minimize the time needed when shopping for new clothes, rather than interacting with multiple clothing sites and not being able to find any sort of clothing brand. This would take away from the daily time that a user might have spent on doing something else. The user can just browse the site logged out, however they can create an account if they do not have one and proceed to purchase an item of their choice. They can edit their profiles also if they find that some information that they have provided is lacking and could use improvement.
