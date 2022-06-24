@@ -43,7 +43,7 @@ class Testing {
 	
 	@Test
 	void testHomePageButton() throws InterruptedException{
-		webDriver.get("https:www.plus.ba/bs/category/16/1?is_published=1&price_min=5&price_max=5833&sort_by=published_at_desc&per_page=12&category_recursive=16&page=1");
+		webDriver.get("https://se-clothing-store-project.herokuapp.com/");
 		WebElement homeButton = webDriver.findElement(By.className("link-name"));
 		homeButton.click();
 		Thread.sleep(2000);
